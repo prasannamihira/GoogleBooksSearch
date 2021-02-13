@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    UI colors-->
+    <color name="colorBackGround">#E5E5E5</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorAccent">#C4C4C4</color>
+    <color name="list_bottom_border">#000000</color>
+
+    <!--    Text colors-->
+    <color name="textColorPrimary">#FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_title">Google Books Search</string>
+
+    <!--    Books volumes screen-->
+    <string name="search_hint">Search</string>
+    <string name="books_title">BOOK FINDER</string>
+
+    <!--    Events-->
+    <string name="ok">OK</string>
+</resources>
